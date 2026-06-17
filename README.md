@@ -21,19 +21,6 @@
 
 ---
 
-## Migration Architecture
-
-```mermaid
-graph LR
-    A[2 AZ Setup] --> B[Architecture Audit]
-    B --> C[IaaS Migration]
-    C --> D[Kubernetes Migration]
-    D --> E[DBaaS Migration]
-    E --> F[3 AZ — 99.95% HA]
-```
-
----
-
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasytch&show_icons=true&theme=default)
