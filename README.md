@@ -46,7 +46,7 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - **PaaS / Storage:** HighIOPS HA; Ceph/Cinder failure handling; Kubernetes container audit across AZs
 - **Platform:** IAM AZ failure tolerance; Billing components HA (charge engine, cashflow engine); Octavia healthcheck shutdown on mass entity loss; Status Page HA
 
-→ [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — DR process built on top of this HA foundation
+→ [openstack-ha-3az](https://github.com/tarasytch/openstack-ha-3az) — full program documentation · [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — DR process built on top of this HA foundation
 
 `Nova` `Neutron` `Sprut` `Octavia` `Ceph` `Stolon` `RabbitMQ` `Temporal` `IAM` `Kubernetes`
 
@@ -137,6 +137,7 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — Production DR framework: 15+ OpenStack components, quarterly AZ failure tests
 - [vktech-dc-migration](https://github.com/tarasytch/vktech-dc-migration) — DC migration playbook: 18,000 VM, 11 stages, multi-AZ, zero downtime
 - [sli-slo-framework](https://github.com/tarasytch/sli-slo-framework) — SLI/SLO methodology: 10 business scenarios across IaaS and PaaS, error budget approach
+- [openstack-ha-3az](https://github.com/tarasytch/openstack-ha-3az) — 3 AZ HA program: 54 tasks across Neutron/SDN, compute, data layer, billing, platform
 - [product-scaling-readiness](https://github.com/tarasytch/product-scaling-readiness) — Program framework: self-deployment, distribution, release docs, observability across enterprise products
 
 
