@@ -48,9 +48,11 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 ---
 
 **Observability (2023–2024)**
-- Implemented centralized monitoring for 10+ core IaaS and PaaS services
-- Consolidated fragmented tools into a single production-grade system
-- Introduced SLI-based availability tracking and unified metrics space
+- Designed SLI/SLO framework covering 10 business scenarios across IaaS and PaaS (VM uptime, new VM creation, UI availability, Billing, Backup, K8s, DBaaS, Analytical DB, ML, S3)
+- Defined per-scenario measurement methodology: error budget, 30-day rolling windows, escalation thresholds per client tier
+- Implemented centralized monitoring for 10+ core services; consolidated fragmented tools into a unified metrics space
+
+→ [sli-slo-framework](https://github.com/tarasytch/sli-slo-framework) — published methodology
 
 `Grafana` `SLI/SLO` `VK WorkSpace (alerting)`
 
