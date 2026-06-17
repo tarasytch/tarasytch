@@ -39,11 +39,16 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 ---
 
 **High Availability (2023 — 2024)**
-- Migrated control-plane architecture from 2 AZ to 3 AZ setup
-- Extended multi-AZ architecture to IaaS, Kubernetes and DBaaS
-- Improved resilience to full AZ failure without service disruption
+- Drove 3 AZ control-plane migration program: coordinated 54 engineering tasks across DEV and SRE tracks
+- **Neutron / SDN:** fullsync runbook and fencing mechanisms; Neutron DB isolation; OVS flow persistence on hypervisors; Sprut (SDN) adopted as default, replacing Neutron for new users; Neutron → Sprut migration utility
+- **Compute:** Nova graceful degradation on network unavailability; VM auto-recovery after hypervisor failure; VM evacuation optimization; API read-only mode during incidents
+- **Data layer:** Stolon/PostgreSQL Keeper auto-start fix; RabbitMQ queue auto-recreation; multi-DC Temporal cluster
+- **PaaS / Storage:** HighIOPS HA; Ceph/Cinder failure handling; Kubernetes container audit across AZs
+- **Platform:** IAM AZ failure tolerance; Billing components HA (charge engine, cashflow engine); Octavia healthcheck shutdown on mass entity loss; Status Page HA
 
-`Confluence` `Manual + Automated DR Testing`
+→ [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — DR process built on top of this HA foundation
+
+`Nova` `Neutron` `Sprut` `Octavia` `Ceph` `Stolon` `RabbitMQ` `Temporal` `IAM` `Kubernetes`
 
 ---
 
