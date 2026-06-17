@@ -105,7 +105,7 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ## Side Project
 
-**SABI — Founder / System Architect (2024 — Present)**
+**SABI — Founder / Project Lead (2024 — Present)**
 - Built a cross-model multi-agent AI content production system from scratch on Anthropic Claude Code Agent SDK
 - Designed 6-agent decomposition (Opus + Sonnet + Haiku) with exclusive write-access boundaries per agent — refactored from a 280-line monolith after conflict analysis
 - 14 composable skill pipelines: Instagram carousels, longform articles, YouTube localization (ElevenLabs voice clone), competitor research
