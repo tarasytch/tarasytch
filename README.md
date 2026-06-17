@@ -120,3 +120,11 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 - Email: i@abogatyrev.com
 - Website: [abogatyrev.com](https://abogatyrev.com)
+
+
+---
+
+## Projects on GitHub
+
+- [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — Production DR framework: 15+ OpenStack components, quarterly AZ failure tests
+- [vktech-dc-migration](https://github.com/tarasytch/vktech-dc-migration) — DC migration playbook: 18,000 VM, 11 stages, multi-AZ, zero downtime
