@@ -1,7 +1,18 @@
-# Andrey Bogatyrev — Project Manager
+# Andrey Bogatyrev — Program / Project Manager
 ### Cloud Infrastructure & EdTech
 
-Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability (up to **99.95%**) and large-scale migrations (up to **18,000 VM with zero downtime**). Align work across 10+ engineering teams.
+Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability and large-scale migrations. Experienced in remote cross-functional delivery and enterprise stakeholder management. English — C1.
+
+---
+
+## Key Achievements
+
+- 18,000 VM migrated with zero downtime
+- 99.95% HA achieved across IaaS, Kubernetes and DBaaS
+- ~300 services under program management
+- 10+ engineering teams aligned simultaneously
+- 108 legal entities migrated into unified ERP (~10,000 users)
+- EdTech: 5,000+ subscribers, 200+ students, launched from scratch
 
 ---
 
@@ -9,21 +20,16 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ### VK Cloud — Program / Project Manager (2023 — Present)
 
-**VK Tech Infrastructure Migration (2025 — Present)**
-- Led migration of core platform components (control-plane and data-plane)
-- Zero downtime for critical services; coordinated 5+ cross-functional teams
-- Owned planning, execution, communication and risk management
-
 **X4 Program (2025)**
 - Coordinated company-wide infrastructure initiative
 - Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
 
-**High Availability (2024)**
+**High Availability (2023 — Present)**
 - Migrated control-plane architecture from 2 AZ to 3 AZ setup
 - Extended multi-AZ architecture to IaaS, Kubernetes and DBaaS
 - Improved resilience to full AZ failure without service disruption
 
-**Disaster Recovery Process (2023-2024)**
+**Disaster Recovery Process (2023)**
 - Designed and implemented DR process from scratch
 - Formalized incident response at platform level
 - Led DR tests on Stage and Production; established regular DR testing practices
@@ -32,6 +38,12 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - Implemented centralized monitoring for 10+ core IaaS and PaaS services
 - Consolidated fragmented tools into a single production-grade system
 - Introduced SLI-based availability tracking and unified metrics space
+
+**VK Tech Infrastructure Migration (2025 — Present)**
+- Led migration of core platform components (control-plane and data-plane)
+- Zero downtime for critical services; coordinated 5+ cross-functional teams
+- Owned planning, execution, communication and risk management
+
 ---
 
 ### IBS — Project Manager (2021 — 2023)
@@ -66,13 +78,15 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ## Stack
 
-`Jira` `Confluence` `Notion` `Miro` `SLI/SLO` `Multi-AZ` `Disaster Recovery` `Agile` `Scrum` `Kanban`
+**Cloud & Infra:** OpenStack / IaaS / PaaS · Kubernetes · DBaaS · Multi-AZ · Disaster Recovery
 
----
+**Observability:** SLI/SLO · Centralized Monitoring · Incident Management
 
-## GitHub Stats
+**PM Tools:** Jira · Confluence · Notion · Miro · GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasytch&show_icons=true&theme=default)
+**Methodologies:** Agile · Scrum · Kanban · Waterfall
+
+**Languages:** Russian (native) · English (C1)
 
 ---
 
