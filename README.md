@@ -105,12 +105,18 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ## Side Project
 
-**SABI — Founder / Project Lead (2024 — Present)**
-- Launched online education platform from scratch
-- 5,000+ subscribers, 200+ students, 3 courses
-- Built and manage a team of 6; responsible for product, marketing and operations
+**SABI — Founder / System Architect (2024 — Present)**
+- Built a cross-model multi-agent AI content production system from scratch on Anthropic Claude Code Agent SDK
+- Designed 6-agent decomposition (Opus + Sonnet + Haiku) with exclusive write-access boundaries per agent — refactored from a 280-line monolith after conflict analysis
+- 14 composable skill pipelines: Instagram carousels, longform articles, YouTube localization (ElevenLabs voice clone), competitor research
+- Cross-model image generation: GPT-Image-2 + Grok Imagine via FAL.AI; Figma API for carousel assembly; 5-channel publishing automation
+- Designed HITL lessons loop: agents propose structured lessons (What/Why/Rule), owner confirms, lessons accumulate per-agent — compounding institutional memory without code changes
+- 2-layer quality system: 29-pattern anti-slop lint + verbatim source ratio enforcement (≥55%)
+- 5,000+ subscribers, 2 markets (EN/ES), 5 publication channels
 
-`Custom-built platform`
+→ [sabi-ai-pipeline](https://github.com/tarasytch/sabi-ai-pipeline) — system architecture and pipeline documentation
+
+`Claude Opus` `Claude Sonnet` `GPT-Image-2` `Grok Imagine` `ElevenLabs` `FAL.AI` `Figma API` `Apify` `Python`
 
 ---
 
@@ -138,6 +144,7 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - [vktech-dc-migration](https://github.com/tarasytch/vktech-dc-migration) — DC migration playbook: 18,000 VM, 11 stages, multi-AZ, zero downtime
 - [sli-slo-framework](https://github.com/tarasytch/sli-slo-framework) — SLI/SLO methodology: 10 business scenarios across IaaS and PaaS, error budget approach
 - [openstack-ha-3az](https://github.com/tarasytch/openstack-ha-3az) — 3 AZ HA program: 54 tasks across Neutron/SDN, compute, data layer, billing, platform
+- [sabi-ai-pipeline](https://github.com/tarasytch/sabi-ai-pipeline) — 6-agent cross-model AI content system: Claude + GPT-Image-2 + Grok + ElevenLabs, HITL lessons loop
 - [product-scaling-readiness](https://github.com/tarasytch/product-scaling-readiness) — Program framework: self-deployment, distribution, release docs, observability across enterprise products
 
 
