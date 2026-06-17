@@ -25,24 +25,42 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - Zero downtime for critical services; coordinated 5+ cross-functional teams
 - Owned planning, execution, communication and risk management
 
+`Nova` `Neutron` `Cinder` `Glance` `Keystone` `Managed Kubernetes` `PostgreSQL` `MySQL` `Redis` `ClickHouse` `Jira` `Confluence` `Terraform` `Ansible`
+
+---
+
 **X4 Program (2025)**
 - Coordinated company-wide infrastructure initiative
 - Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
+
+`Jira` `Confluence`
+
+---
 
 **High Availability (2023 — 2024)**
 - Migrated control-plane architecture from 2 AZ to 3 AZ setup
 - Extended multi-AZ architecture to IaaS, Kubernetes and DBaaS
 - Improved resilience to full AZ failure without service disruption
 
+`Confluence` `Manual + Automated DR Testing`
+
+---
+
 **Observability (2023–2024)**
 - Implemented centralized monitoring for 10+ core IaaS and PaaS services
 - Consolidated fragmented tools into a single production-grade system
 - Introduced SLI-based availability tracking and unified metrics space
 
+`Grafana` `SLI/SLO` `VK WorkSpace (alerting)`
+
+---
+
 **Disaster Recovery Process (2023)**
 - Designed and implemented DR process from scratch
 - Formalized incident response at platform level
 - Led DR tests on Stage and Production; established regular DR testing practices
+
+`Confluence` `Manual + Automated DR Testing`
 
 ---
 
@@ -52,12 +70,22 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - Led migration of 108 legal entities into unified ERP system
 - Impact: ~10,000 users; team of up to 15 engineers; delivered on time
 
+`1С:ERP` `MS Project`
+
+---
+
 **Government Analytics Dashboards**
 - Delivered analytics system for monitoring government programs (~5,000 users)
+
+`Power BI`
+
+---
 
 **IT Localization (Import Substitution Program)**
 - Full-scale migration of IT systems to local infrastructure (~4,000 users)
 - Replaced foreign solutions; designed new network and infrastructure architecture
+
+`Russian infrastructure platforms`
 
 ---
 
@@ -74,17 +102,15 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - 5,000+ subscribers, 200+ students, 3 courses
 - Built and manage a team of 6; responsible for product, marketing and operations
 
+`Custom-built platform`
+
 ---
 
 ## Stack
 
-**Cloud & Infra:** OpenStack / IaaS / PaaS · Kubernetes · DBaaS · Multi-AZ · Disaster Recovery
-
-**Observability:** SLI/SLO · Centralized Monitoring · Incident Management
-
-**PM Tools:** Jira · Confluence · Notion · Miro · GitHub
-
 **Methodologies:** Agile · Scrum · Kanban · Waterfall
+
+**PM Tools:** Jira · Confluence · Miro · Notion · MS Project
 
 **Languages:** Russian (native) · English (C1)
 
