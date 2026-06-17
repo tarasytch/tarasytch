@@ -9,30 +9,29 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ### VK Cloud — Program / Project Manager (2023 — Present)
 
-**Observability (2023–2024)**
-- Implemented centralized monitoring for 10+ core IaaS and PaaS services
-- Consolidated fragmented tools into a single production-grade system
-- Introduced SLI-based availability tracking and unified metrics space
-- Shifted incident detection from reactive to proactive
+**X4 Program (2025)**
+- Coordinated company-wide infrastructure initiative
+- Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
+
+**VK Tech Infrastructure Migration (2025 — Present)**
+- Led migration of core platform components (control-plane and data-plane)
+- Zero downtime for critical services; coordinated 5+ cross-functional teams
+- Owned planning, execution, communication and risk management
 
 **High Availability (2023 — Present)**
 - Migrated control-plane architecture from 2 AZ to 3 AZ setup
 - Extended multi-AZ architecture to IaaS, Kubernetes and DBaaS
-- Led DR tests on Stage and Production; established regular DR testing practices
 - Improved resilience to full AZ failure without service disruption
 
 **Disaster Recovery Process (2023)**
 - Designed and implemented DR process from scratch
 - Formalized incident response at platform level
+- Led DR tests on Stage and Production; established regular DR testing practices
 
-**VK Tech Infrastructure Migration (2025)**
-- Led migration of core platform components (control-plane and data-plane)
-- Zero downtime for critical services; coordinated 5+ cross-functional teams
-- Owned planning, execution, communication and risk management
-
-**X4 Program (2025)**
-- Coordinated company-wide infrastructure initiative
-- Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
+**Observability (2023–2024)**
+- Implemented centralized monitoring for 10+ core IaaS and PaaS services
+- Consolidated fragmented tools into a single production-grade system
+- Introduced SLI-based availability tracking and unified metrics space
 
 ---
 
