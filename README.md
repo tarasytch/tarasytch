@@ -1,4 +1,4 @@
-# Andrey Bogatyrev — Program / Project Manager
+# Andrey Bogatyrev — Project Manager
 ### Cloud Infrastructure & EdTech
 
 Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability (up to **99.95%**) and large-scale migrations (up to **18,000 VM with zero downtime**). Align work across 10+ engineering teams.
