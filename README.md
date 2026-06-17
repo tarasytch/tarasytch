@@ -1,7 +1,7 @@
 # Andrey Bogatyrev — Program / Project Manager
 ### Cloud Infrastructure & EdTech
 
-Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability (up to **99.95%**) and large-scale migrations (up to **18,000 hosts with zero downtime**). Align work across 10+ engineering teams.
+Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability (up to **99.95%**) and large-scale migrations (up to **18,000 VM with zero downtime**). Align work across 10+ engineering teams.
 
 ---
 
@@ -12,11 +12,6 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 **X4 Program (2025)**
 - Coordinated company-wide infrastructure initiative
 - Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
-
-**VK Tech Infrastructure Migration (2025 — Present)**
-- Led migration of core platform components (control-plane and data-plane)
-- Zero downtime for critical services; coordinated 5+ cross-functional teams
-- Owned planning, execution, communication and risk management
 
 **High Availability (2023 — Present)**
 - Migrated control-plane architecture from 2 AZ to 3 AZ setup
@@ -32,6 +27,11 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - Implemented centralized monitoring for 10+ core IaaS and PaaS services
 - Consolidated fragmented tools into a single production-grade system
 - Introduced SLI-based availability tracking and unified metrics space
+
+**VK Tech Infrastructure Migration (2025 — Present)**
+- Led migration of core platform components (control-plane and data-plane)
+- Zero downtime for critical services; coordinated 5+ cross-functional teams
+- Owned planning, execution, communication and risk management
 
 ---
 
