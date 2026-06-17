@@ -29,9 +29,10 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ---
 
-**X4 Program (2025)**
-- Coordinated company-wide infrastructure initiative
-- Led requirements gathering, roadmap alignment and team synchronization across S3, Workspace and platform services
+**X4 Program — Product Scaling Readiness (2025)**
+- Led cross-company program to enable self-deployment and operation of enterprise products by clients and partners
+- Managed 4 parallel tracks: self-deployer, customer portal & distribution, release documentation (Shift Right), unified observability
+- Drove reduction of vendor-assisted deployment cycles and L3/L4 support load
 
 `Jira` `Confluence`
 
@@ -129,4 +130,6 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 - [openstack-dr-playbook](https://github.com/tarasytch/openstack-dr-playbook) — Production DR framework: 15+ OpenStack components, quarterly AZ failure tests
 - [vktech-dc-migration](https://github.com/tarasytch/vktech-dc-migration) — DC migration playbook: 18,000 VM, 11 stages, multi-AZ, zero downtime
 - [sli-slo-framework](https://github.com/tarasytch/sli-slo-framework) — SLI/SLO methodology: 10 business scenarios across IaaS and PaaS, error budget approach
+- [product-scaling-readiness](https://github.com/tarasytch/product-scaling-readiness) — Program framework: self-deployment, distribution, release docs, observability across enterprise products
+
 
