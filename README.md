@@ -1,4 +1,6 @@
-# Andrey Bogatyrev — Senior Technical Project Manager | Cloud Infrastructure & Platform Reliability | Stakeholder Management | EdTech | AI in Project Management
+# Andrey Bogatyrev
+
+### Senior Technical Project Manager | Cloud Infrastructure & Platform Reliability | Stakeholder Management | EdTech | AI in Project Management
 
 Program / Project Manager with 5+ years of experience in cloud infrastructure, digital transformation and EdTech. Lead cross-team initiatives across ~300 services, focusing on reliability, observability, high availability and large-scale migrations. Experienced in remote cross-functional delivery and enterprise stakeholder management. English — C1.
 
