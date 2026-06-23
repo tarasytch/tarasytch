@@ -75,9 +75,10 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 ### IBS — Project Manager (2021 — 2023)
 
 **ERP 2.0 Implementation (1C)**
-- Led migration of 108 legal entities into unified ERP system
-- Impact: ~10,000 users; team of up to 15 engineers; delivered on time
-
+- Led migration functional block across 108 legal entities with heterogeneous chart-of-accounts structures into a unified ERP
+- ~10,000 users; team of up to 15 engineers; delivered on time under enterprise commercial contract
+- Onboarded intern cohort from IBS Career Reboot program — 80%+ successfully integrated into the project team
+  
 `1С:ERP` `MS Project`
 
 ---
@@ -89,11 +90,20 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ---
 
-**IT Localization (Import Substitution Program)**
-- Full-scale migration of IT systems to local infrastructure (~4,000 users)
-- Replaced foreign solutions; designed new network and infrastructure architecture
+**IT Localization - Ball Beverage Packaging (2022)**
+- Led IT separation of Ball Corporation's Russian business (~800 IT users, 5 sites) from global corporate infrastructure under 2022 sanctions
+- Built independent hybrid-cloud environment on Russian providers; migrated Active Directory, replaced Cisco telephony, Symantec AV, and all globally-managed services
+- Delivered on time with zero production downtime; managed international stakeholder environment under extreme deadline pressure
 
-`Russian infrastructure platforms`
+`MS Active Directory` `Hybrid Cloud` `Infrastructure Migration` `InfoSec`
+
+---
+**IT Localization - Michelin (2022)**
+- Led full-cycle IT localization for Michelin's Russian operations exiting the country under 2022 sanctions
+- Scope: audit, architecture design, and deployment of AD, network (LAN/WiFi/VPN), InfoSec, backup, virtualization, and telephony
+- Delivered on time with zero production downtime; coordinated international stakeholders across Russian and French teams
+
+`MS Active Directory` `Network Infrastructure` `InfoSec` `Virtualization`
 
 ---
 
