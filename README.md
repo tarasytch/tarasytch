@@ -84,7 +84,7 @@ Program / Project Manager with 5+ years of experience in cloud infrastructure, d
 
 ---
 
-**Government Analytics Dashboards**
+**Government Analytics Dashboards** (NDA project)
 - Delivered analytics system for monitoring government programs (~5,000 users)
 
 `Power BI`
